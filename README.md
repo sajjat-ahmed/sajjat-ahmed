@@ -23,11 +23,17 @@ I'm Sajjat Ahmed from Bangladesh. I'm currently 16. I love to learn new things e
 
 <br />
 
-<br />
 
-<br />
-
-<hr />
+📊 **Weekly development breakdown**
+<!--START_SECTION:waka-->
+```text
+Markdown   9 hrs 27 mins   ████████████▒░░░░░░░░░░░░   48.79 % 
+Python     3 hrs 47 mins   █████░░░░░░░░░░░░░░░░░░░░   19.58 % 
+Cheetah    2 hrs 12 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.39 % 
+Go         1 hr 55 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.90 % 
+CSS        1 hr 11 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.12 % 
+```
+<!--END_SECTION:waka-->
 
 
 <a href="https://github.com/sajjat-ahmed/github-readme-stats">
