@@ -1,6 +1,5 @@
-# Sajjat Ahmed
-<p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
-</em></p>
+# Sajjat Ahmed<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+
 I'm Sajjat Ahmed from Bangladesh. I'm currently 16. I love to learn new things everyday. I'm a student of 10th class. I really enjoy learning languages and frameworks like React. I also enjoy ui, ux, and design.
 
 
