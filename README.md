@@ -1,5 +1,4 @@
 # Sajjat Ahmed
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 <p><em>Software Engineer at <a href="http://www.cleartax.in">ClearTax</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
 </em></p>
 I'm Sajjat Ahmed from Bangladesh. I'm currently 16. I love to learn new things everyday. I'm a student of 10th class. I really enjoy learning languages and frameworks like React. I also enjoy ui, ux, and design.
@@ -37,7 +36,7 @@ HTML           5 mins          ▒░░░░░░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-
+### GitHub Status
 <a href="https://github.com/sajjat-ahmed/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sajjat-ahmed&show_icons=true&include_all_commits=true&theme=radical" alt="Sajjat's github stats" />
 </a>
