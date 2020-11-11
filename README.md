@@ -6,6 +6,7 @@ I'm Sajjat Ahmed from Bangladesh, and I do work on Design and Development. I rea
 ## Skills and Experience
 * HTML, CSS
 * JavaScript
+* React
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=sajjat-ahmed)
 
