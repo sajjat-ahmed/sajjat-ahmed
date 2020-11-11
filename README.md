@@ -3,3 +3,5 @@ I'm Sajjat Ahmed from Bangladesh. I'm currently 16. I love to learn new things e
 
 <img width="100%" height="200px" alt="Sajjat Ahmed Github Stats"  src="https://github-readme-stats.vercel.app/api?username=sajjat-ahmed&show_icons=true"/>
 
+[![Top Langs card](https://github-readme-stats.vercel.app/api/top-langs/?username=solaimanshadin&card_width=550)](https://github.com/solaimanshadin/solaimanshadin)
+
