@@ -35,6 +35,8 @@ HTML                 5 mins                  ▒░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+
 ### GitHub Status
 <a href="https://github.com/sajjat-ahmed/github-readme-stats">
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api?username=sajjat-ahmed&show_icons=true&include_all_commits=true&theme=radical" alt="Sajjat's github stats" />
