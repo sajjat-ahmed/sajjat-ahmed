@@ -35,7 +35,7 @@ HTML                 5 mins                  ▒░░░░░░░░░░�
 ```
 <!--END_SECTION:waka-->
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=sajjat-ahmed)
 
 ### GitHub Status
 <a href="https://github.com/sajjat-ahmed/github-readme-stats">
