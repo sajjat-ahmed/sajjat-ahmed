@@ -29,8 +29,8 @@ I'm Sajjat Ahmed from Bangladesh. I'm currently 16. I love to learn new things e
 <!--START_SECTION:waka-->
 ```
 JavaScript           3 hrs 16 mins           ██████████▓░░░░░░░░░░░░░░            43.11 % 
-python               3 hrs 13 mins           ██████████▓░░░░░░░░░░░░░░            42.33 % 
-Css                  1 hr                    ███▒░░░░░░░░░░░░░░░░░░░░░            13.24 % 
+Node                 3 hrs 13 mins           ██████████▓░░░░░░░░░░░░░░            42.33 % 
+CSS                  1 hr                    ███▒░░░░░░░░░░░░░░░░░░░░░            13.24 % 
 HTML                 5 mins                  ▒░░░░░░░░░░░░░░░░░░░░░░░░            01.30 %
 ```
 <!--END_SECTION:waka-->
