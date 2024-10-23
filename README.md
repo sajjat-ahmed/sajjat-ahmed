@@ -19,15 +19,15 @@
 \\___[ an AI assistant designed to provide intelligent support, information, and assistance through natural language interactions (in dev)<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;\\\_ `Python` ]
 -->
-⭐ **Certifications**: `Cisco IT Essentials`
+⭐ **Certifications**: `Complete Web Development Course`
 
-📝 **Blog**: [twfksh.github.io](https://sajjat-ahmed.github.io/)
+📝 **Blog**: [sajjat-ahmed.github.io](https://sajjat-ahmed.github.io/)
 
 <!-- <div align="center"> -->
 <!-- [![](https://visitcount.itsvg.in/api?id=toufiq7r&label=Profile%20Views&pretty=true)](https://visitcount.itsvg.in) -->
 
 #### `👨‍💻` 9TOOLMINE
-[![](https://skillicons.dev/icons?i=javascript,react,css,python,html,git,bash,linux)](https://skillicons.dev)
+[![](https://skillicons.dev/icons?i=html,css,javascript,react,python,git,linux)](https://skillicons.dev)
 
 <!-- <a href="https://github.com/toufiq7r">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=toufiq7r&theme=ayu-mirage&hide=css,html,markdown&langs_count=3" />
